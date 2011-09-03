@@ -1,7 +1,6 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackboneMap", "BackboneMap\BackboneMap.csproj", "{D1A940EA-A0AD-41D8-9EEB-83E723F8D694}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackboneMap", "BackboneMap.csproj", "{D1A940EA-A0AD-41D8-9EEB-83E723F8D694}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
